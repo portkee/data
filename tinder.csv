@@ -1,0 +1,101 @@
+ID,Gender,Age,Instagram,Spotify,Bio,Job Title,Clubs/Organization,College,Sexual Orientation,Pictures Count,num_matches,Target,Girl1,Girl2,Girl3,Girl4,Girl5
+1,Male,20,0,1,0,Student,,UPES,Straight,7,5,1,1,0,0,0,1
+2,Male,20,0,1,0,Vice President,Personality Development,DIT,Straight,4,4,0,1,0,0,0,1
+3,Male,24,0,1,0,Student,,Uttaranchal University,Straight,7,9,1,0,1,0,0,1
+4,Male,24,1,1,0,Volunteer,Rotaract,Graphic Era,Straight,6,7,1,1,1,1,0,0
+5,Male,20,0,1,0,Student,,UPES,Asexual,3,2,0,1,1,0,0,0
+6,Male,22,0,1,0,President,Academics,Graphic Era,Straight,1,8,0,0,1,1,0,0
+7,Male,19,0,0,1,Student,,,Straight,8,8,1,0,0,0,1,0
+8,Male,18,0,0,0,Student,,Uttaranchal University,Straight,4,7,0,1,0,1,0,0
+9,Male,23,1,0,0,Secretary,Political,DIT,Straight,3,8,1,1,0,0,1,1
+10,Male,19,0,0,1,Student,,,Straight,5,8,1,0,0,0,0,0
+11,Male,23,0,0,1,Student,,Uttaranchal University,Asexual,3,10,1,0,1,1,1,0
+12,Male,23,0,0,1,Vice President,Mathematics,Graphic Era,Straight,2,6,1,0,1,1,0,1
+13,Male,21,1,0,1,Student,,UPES,Straight,8,10,0,0,1,0,1,0
+14,Male,20,0,0,0,Student,,DIT,Straight,0,4,1,1,1,1,1,1
+15,Male,23,0,0,1,Student Partner,Microsoft,UPES,Straight,7,5,1,1,0,1,1,1
+16,Male,20,0,0,0,Student,,UPES,Straight,3,8,0,0,0,1,1,1
+17,Male,22,1,0,1,Student,,,Straight,6,6,1,0,1,1,0,1
+18,Male,22,1,0,0,Student,,Graphic Era,Asexual,2,6,0,0,1,0,1,0
+19,Male,21,0,1,0,President,Media & Publication,DIT,Straight,6,7,0,0,1,1,1,0
+20,Male,22,0,1,1,Student,,DIT,Straight,3,1,1,0,1,0,1,1
+21,Male,19,0,1,1,Student,,UPES,Straight,8,2,1,0,1,0,1,1
+22,Male,19,1,1,0,Student,,UPES,Straight,4,4,1,1,0,0,0,0
+23,Male,20,0,0,0,Campus Ambassador,Training & Palcement,UPES,Straight,5,6,1,1,0,1,0,1
+24,Male,24,1,0,0,Student,,UPES,Straight,6,6,0,1,1,1,1,0
+25,Male,21,0,0,1,Student,,,Straight,3,4,1,0,0,0,0,0
+26,Male,20,1,1,1,Student,,DIT,Straight,3,2,1,1,1,1,0,1
+27,Male,20,1,0,0,Vice President,Astronomy,Uttaranchal University,Straight,1,6,1,1,1,1,0,1
+28,Male,18,0,0,0,Student,,UPES,Straight,2,2,0,0,1,1,0,0
+29,Male,21,1,0,1,Student,,DIT,Straight,1,8,0,0,0,0,1,0
+30,Female,18,0,1,1,Student,,Uttaranchal University,Straight,4,1,0,0,0,0,0,0
+31,Male,18,0,0,0,Student,,UPES,Straight,7,0,1,0,1,0,1,1
+32,Male,22,0,1,0,Secretary,Astronomy,DIT,Straight,7,5,1,1,1,1,0,0
+33,Male,21,1,1,0,Student,,UPES,Straight,3,8,0,0,0,1,1,1
+34,Male,22,1,1,1,Volunteer,Rotaract,Graphic Era,Straight,2,0,1,1,1,0,0,1
+35,Male,20,0,0,1,Student,,Uttaranchal University,Straight,1,9,0,1,0,1,1,0
+36,Male,22,1,0,1,Student Partner,Internshala,UPES,Straight,2,9,1,1,0,1,1,0
+37,Male,21,1,1,0,Student,,DIT,Straight,6,1,0,0,0,0,0,0
+38,Female,22,1,1,0,Student,,UPES,Straight,5,10,1,0,0,1,0,0
+39,Male,18,1,0,1,Secretary,Community Service,DIT,Straight,3,0,0,0,1,1,1,0
+40,Male,22,0,1,1,Student,,,Straight,2,9,1,0,0,0,1,0
+41,Male,19,1,1,0,Student,,Uttaranchal University,Straight,6,9,0,0,0,1,0,1
+42,Male,23,1,0,1,Student,,UPES,Straight,7,1,0,0,1,1,0,0
+43,Male,18,0,1,1,Vice President,Theater & Arts,Graphic Era,Straight,4,5,1,1,0,0,1,1
+44,Male,18,1,0,1,Student,,UPES,Straight,7,0,1,0,0,1,0,1
+45,Male,20,1,0,0,Volunteer,Rotaract,Graphic Era,Straight,8,0,1,1,0,1,1,0
+46,Male,18,0,0,1,Student,,Uttaranchal University,Straight,2,1,0,0,0,0,0,1
+47,Male,23,0,1,0,Secretary,Sports,DIT,Straight,0,7,1,0,0,1,1,1
+48,Male,21,1,0,1,Student,,Graphic Era,Straight,5,9,1,0,1,1,0,0
+49,Male,18,0,1,0,Student,,Uttaranchal University,Straight,1,2,0,0,0,0,0,1
+50,Male,22,0,1,0,President,Theater & Arts,UPES,Straight,7,0,0,1,0,1,1,1
+51,Male,24,1,1,1,Student,,Uttaranchal University,Straight,0,6,0,1,0,1,0,0
+52,Male,22,0,0,1,Student,,Graphic Era,Straight,7,9,1,1,0,0,1,0
+53,Male,18,1,1,0,Student,,UPES,Straight,2,7,0,0,0,0,0,0
+54,Male,23,1,0,1,Secretary,Personality Development,Uttaranchal University,Straight,6,3,1,1,1,1,1,1
+55,Male,24,0,0,1,Student,,ICFAI,Straight,3,6,0,1,1,1,1,1
+56,Male,18,1,0,1,Student,,ICFAI,Straight,8,7,0,0,1,1,1,1
+57,Female,22,1,1,0,Volunteer,Rotaract,Uttaranchal University,Straight,5,7,1,0,0,0,0,1
+58,Male,19,0,0,1,Secretary,Event Organization,Graphic Era,Straight,4,5,1,0,0,0,1,0
+59,Male,23,0,0,0,Student,,,Straight,4,0,0,1,1,0,0,1
+60,Male,18,0,1,1,Student,,Graphic Era,Straight,2,3,1,1,0,1,1,0
+61,Male,23,1,0,0,Student,,UPES,Straight,9,5,0,0,0,0,0,0
+62,Male,23,0,0,1,Secretary,Rotaract,Graphic Era,Straight,8,9,0,0,0,0,1,1
+63,Male,23,1,0,0,Student,,Uttaranchal University,Straight,4,1,0,1,1,0,0,0
+64,Male,21,1,1,1,Vice President,Cultural,UPES,Straight,9,7,0,1,0,0,0,0
+65,Male,21,1,0,0,President,Cultural,DIT,Straight,1,3,0,1,1,0,0,1
+66,Male,18,0,0,0,President,Community Service,ICFAI,Straight,2,3,0,1,0,0,1,0
+67,Male,23,0,1,1,Student,,ICFAI,Straight,0,1,0,1,0,1,1,0
+68,Male,23,1,1,1,Student,,ICFAI,Straight,9,8,0,0,0,1,0,0
+69,Male,24,1,0,0,Student,,ICFAI,Straight,8,2,0,1,0,1,1,1
+70,Male,19,0,1,1,Student,,ICFAI,Bisexual,7,1,1,0,0,1,0,0
+71,Male,24,1,1,1,Student,,ICFAI,Straight,3,2,1,0,1,0,1,0
+72,Male,21,0,0,0,Secretary,Photgraphy,Uttaranchal University,Bisexual,5,2,0,0,1,1,1,1
+73,Male,19,1,0,0,President,Sports,UPES,Straight,3,10,0,0,1,0,0,0
+74,Male,24,1,1,0,Student,,UPES,Straight,5,8,1,0,1,1,1,1
+75,Male,19,1,1,1,Student,,,Bisexual,0,3,0,0,1,0,1,0
+76,Male,23,1,0,1,Student,,,Straight,9,9,0,1,0,1,1,1
+77,Male,20,0,0,0,Student,,UPES,Straight,7,2,1,0,0,0,0,1
+78,Male,19,1,1,0,Student,,Uttaranchal University,Straight,3,8,0,0,1,0,1,0
+79,Male,20,0,1,1,Student,,UPES,Bisexual,8,0,1,1,0,0,0,0
+80,Male,24,0,0,0,Student,,,Straight,4,1,0,1,0,0,0,1
+81,Male,23,1,1,1,Student,,UPES,Straight,9,10,1,0,0,0,1,1
+82,Male,19,0,0,1,Student,,Uttaranchal University,Straight,0,7,1,1,0,0,1,0
+83,Male,24,1,0,0,Student,,,Straight,9,4,0,1,1,0,0,1
+84,Male,19,0,0,1,Student,,,Bisexual,9,9,0,0,1,1,0,0
+85,Male,21,0,0,1,Vice President,Media & Publication,Uttaranchal University,Straight,9,5,0,1,1,1,0,1
+86,Male,20,1,1,1,Student,,ICFAI,Straight,4,4,1,0,0,0,1,1
+87,Male,19,0,1,0,Student,,ICFAI,Straight,9,4,0,0,1,0,1,0
+88,Male,22,0,0,1,Student,,ICFAI,Straight,1,4,0,0,0,1,1,0
+89,Male,24,0,1,0,Student,,ICFAI,Straight,1,9,1,0,0,1,0,1
+90,Male,22,1,0,1,Student,,ICFAI,Straight,3,2,0,0,1,0,0,0
+91,Female,21,1,1,1,Student,,ICFAI,Bisexual,1,6,0,0,0,0,0,0
+92,Male,19,0,0,1,Student,,ICFAI,Straight,4,8,0,1,0,0,1,0
+93,Male,21,1,0,1,Student,,ICFAI,Straight,5,4,0,1,0,1,1,1
+94,Male,19,0,0,1,Student,,ICFAI,Straight,5,4,1,1,0,0,0,0
+95,Male,18,0,1,1,Student,,ICFAI,Straight,1,2,1,1,0,0,1,1
+96,Male,21,1,0,1,Student,,ICFAI,Straight,1,7,0,0,1,1,1,0
+97,Male,24,0,0,0,Student,,ICFAI,Straight,3,5,0,1,1,1,0,1
+98,Male,20,1,0,0,Student,,ICFAI,Straight,7,6,0,0,1,1,1,1
+99,Male,24,0,1,0,Secretary,Theater & Arts,UPES,Bisexual,2,1,0,1,0,0,0,1
+100,Male,27,0,1,1,Volunteer,Rotaract,DIT,Straight,6,1,0,0,0,1,0,0
